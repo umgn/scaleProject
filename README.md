@@ -49,6 +49,10 @@
 ### :pushpin: 회원가입 - 유효성검사
 ![image](https://user-images.githubusercontent.com/91313067/222188765-f1a5d76b-ef7c-4d63-a6ea-b20a1cef03c5.gif)
 
+- 모든 필드에 각 입력값 유효성검사
+- 1)입력/비입력 확인 2)입력값 형식 확인 순으로 검사
+- 유효성검사 통과 시 안내문구 비노출 또는 확인문구로 변경
+
   
 ### :pushpin: 회원가입 - 아이디 중복 조회
 
