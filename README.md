@@ -79,9 +79,14 @@
 ***
 # :star: Document
 
-## 개발 일정 <br><br>
+## 개발 일정 <br>
+<img width="1519" alt="scale일정" src="https://user-images.githubusercontent.com/115603858/222172225-fb978526-b900-47b5-9c14-766c87c00b10.png">
+<br>
 
+## 유스케이스 <br>
+![use_case](https://user-images.githubusercontent.com/115603858/222172313-c7e3f1ed-f061-4595-a0a1-f9c745f5fafb.jpg)
+<br>
 
-## 유스케이스 <br><br>
-
-## DB 설계 <br><br>
+## DB 설계 <br>
+<img width="1436" alt="scaleDB" src="https://user-images.githubusercontent.com/115603858/222171803-047a9066-7e0b-43b2-9aba-f943b4fd83cd.png">
+<br>
