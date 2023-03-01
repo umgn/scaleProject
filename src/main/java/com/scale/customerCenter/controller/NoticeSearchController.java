@@ -60,7 +60,7 @@ public class NoticeSearchController extends HttpServlet {
 		request.setAttribute("keyword", keyword);
 		request.setAttribute("option", option);
 		
-		request.getRequestDispatcher("views/customerCenter/noticeSearchListView.jsp").forward(request, response);
+		request.getRequestDispatcher("views/customerCenter/noticeListView.jsp").forward(request, response);
 		
 	}
 
