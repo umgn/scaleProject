@@ -15,7 +15,7 @@
     - [비밀번호 재설정(이메일 인증 활용)](#pushpin-비밀번호-재설정(이메일-인증-활용))
     - [공지사항](#pushpin-공지사항)
     - [자주묻는질문](#pushpin-자주묻는질문)
-    - [1:1 문의](#pushipin-1:1-문의)
+    - [1:1 문의](#pushipin-1:1--문의)
     - [정책](#pushipin-정책)
 
 4. [Document](#star-document)
