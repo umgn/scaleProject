@@ -47,6 +47,7 @@
  
 
 ### :pushpin: 회원가입 - 유효성검사
+![image](https://user-images.githubusercontent.com/91313067/222187826-b4ebdb19-869b-489e-9464-888be50d5df9.gif)
 
   
 ### :pushpin: 회원가입 - 아이디 중복 조회
