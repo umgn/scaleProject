@@ -69,10 +69,15 @@
 - 이메일 인증버튼 클릭 시 이메일 형식에 맞지 않을 경우 안내문구 노출
 - 인증메일 발송 후 인증번호 인풋 display, 인증버튼 -> '재인증'으로 버튼명 변경
 
-
+<img width="504" alt="emailcode" src="https://user-images.githubusercontent.com/91313067/222198772-e07b5ce2-494b-4254-bc22-487731ef3258.png">
+<img width="819" alt="emailcode" src="https://user-images.githubusercontent.com/91313067/222200187-a7272a44-569c-4b4e-8fac-4a6a9affe5b0.png">
+- Gmail SMTP를 이용한 이메일 인증코드 발송
+- 인증코드는 5자리 랜덤 숫자 생성
 
 ### :pushpin: 회원가입 - 주소 검색
-
+![address](https://user-images.githubusercontent.com/91313067/222201344-4a0e3562-4333-4ee2-bdd8-2ed5dcb53e93.gif)
+- 다음(카카오) 우편번호 검색 API 활용
+- 우편번호 검색 팝업창에서 주소 선택 시 상세주소 인풋 display
   
 ### :pushpin: 로그인
 
