@@ -73,6 +73,7 @@
 <img width="819" alt="emailcode" src="https://user-images.githubusercontent.com/91313067/222200187-a7272a44-569c-4b4e-8fac-4a6a9affe5b0.png">
 - Gmail SMTP를 이용한 이메일 인증코드 발송
 - 인증코드는 5자리 랜덤 숫자 생성
+- 인증코드 일치 여부를 확인하기 위해 전송한 코드를 view로 응답
 
 ### :pushpin: 회원가입 - 주소 검색
 ![address](https://user-images.githubusercontent.com/91313067/222201344-4a0e3562-4333-4ee2-bdd8-2ed5dcb53e93.gif)
