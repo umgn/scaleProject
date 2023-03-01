@@ -39,8 +39,8 @@
 ***
 
 # :star: 팀 소개 및 주요 기능
-![image](https://user-images.githubusercontent.com/115603858/221831163-b235dd60-382b-4981-bf52-9663c21982cc.png)
-![image](https://user-images.githubusercontent.com/115603858/221831218-f8bb8b1a-52e4-406f-9354-4099f2b8a5b7.png)
+<img width="600" src="https://user-images.githubusercontent.com/115603858/221831163-b235dd60-382b-4981-bf52-9663c21982cc.png">
+<img width="600" src="https://user-images.githubusercontent.com/115603858/221831218-f8bb8b1a-52e4-406f-9354-4099f2b8a5b7.png">
 
 ***
 # :star: 구현 기능
