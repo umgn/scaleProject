@@ -55,6 +55,10 @@
 
   
 ### :pushpin: 회원가입 - 아이디 중복 조회
+![idCheck](https://user-images.githubusercontent.com/91313067/222195695-f11a9e08-cedf-4f4a-a69a-e0ca7478d847.gif)
+
+- 아이디 중복 조회 후 동일한 아이디가 있을 경우 안내문구 노출
+- 중복된 아이디가 아닐 경우 사용 가능 안내문구 노출
 
   
 ### :pushpin: 회원가입 - 이메일 인증
