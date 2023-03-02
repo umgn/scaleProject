@@ -48,7 +48,6 @@
 
 ### :pushpin: 회원가입 - 유효성검사
 ![image](https://user-images.githubusercontent.com/91313067/222188765-f1a5d76b-ef7c-4d63-a6ea-b20a1cef03c5.gif)
-
 - 모든 필드에 각 입력값 유효성검사
 - 1)필수값 입력/비입력 확인 2)입력값 형식 확인 순으로 검사
 - 유효성검사 통과 시 안내문구 비노출 또는 확인문구로 변경
@@ -58,14 +57,12 @@
   
 ### :pushpin: 회원가입 - 아이디 중복 조회
 ![idCheck](https://user-images.githubusercontent.com/91313067/222195695-f11a9e08-cedf-4f4a-a69a-e0ca7478d847.gif)
-
 - 아이디 중복 조회 후 동일한 아이디가 있을 경우 안내문구 노출
 - 중복된 아이디가 아닐 경우 사용 가능 안내문구 노출
 
   
 ### :pushpin: 회원가입 - 이메일 인증
-![email_1](https://user-images.githubusercontent.com/91313067/222196893-86e16d42-5ace-4098-b8c8-c18b4b19a261.gif)
-
+![email](https://user-images.githubusercontent.com/91313067/222428163-4d2c15ea-7cda-4521-bcae-eef031975880.gif)
 - 이메일 인증버튼 클릭 시 이메일 형식에 맞지 않을 경우 안내문구 노출
 - 인증메일 발송 후 인증번호 인풋 display, 인증버튼 -> '재인증'으로 버튼명 변경
 
