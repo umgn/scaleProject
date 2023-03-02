@@ -81,14 +81,17 @@
 - 우편번호 검색 팝업창에서 주소 선택 시 상세주소 인풋 display
   
 ### :pushpin: 로그인
-
+![login](https://user-images.githubusercontent.com/91313067/222420869-f1622cbe-532a-4d48-aebe-e8e57f0ff851.gif)
+- 아이디, 비밀번호 인풋 모두 값 입력 시 로그인버튼 활성화
+- 아이디/비밀번호가 일치하지 않거나 존재하지 않는 회원일 경우 안내문구 노출 -> 재입력 시 문구 사라짐
   
 ### :pushpin: 아이디 찾기
+![findId](https://user-images.githubusercontent.com/91313067/222425415-59cf22b6-32c5-4186-9aea-43c856ef033f.gif)
+![findIdfailed](https://user-images.githubusercontent.com/91313067/222426124-d3f01f1f-dca6-46d1-b636-ddcae69a3fcf.gif)
+- AJAX를 활용하여 아이디 조회 후 화면 변경
 
-  
 ### :pushpin: 비밀번호 재설정(이메일 인증 활용)
 
-  
 ### :pushpin: 공지사항
 
 ### :pushpin: 자주묻는질문
