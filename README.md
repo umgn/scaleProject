@@ -67,7 +67,7 @@
 - 인증메일 발송 후 인증번호 인풋 display, 인증버튼 -> '재인증'으로 버튼명 변경
 
 <img width="504" alt="emailcode" src="https://user-images.githubusercontent.com/91313067/222198772-e07b5ce2-494b-4254-bc22-487731ef3258.png">
-<img width="819" alt="emailcode" src="https://user-images.githubusercontent.com/91313067/222200187-a7272a44-569c-4b4e-8fac-4a6a9affe5b0.png">
+
 - Gmail SMTP를 이용한 이메일 인증코드 발송
 - 인증코드는 5자리 랜덤 숫자 생성
 - 인증코드 일치 여부를 확인하기 위해 전송한 코드를 view로 응답
@@ -85,30 +85,61 @@
 ### :pushpin: 아이디 찾기
 ![findId](https://user-images.githubusercontent.com/91313067/222425415-59cf22b6-32c5-4186-9aea-43c856ef033f.gif)
 ![findIdfailed](https://user-images.githubusercontent.com/91313067/222426124-d3f01f1f-dca6-46d1-b636-ddcae69a3fcf.gif)
-- AJAX를 활용하여 아이디 조회 후 화면 변경
+- AJAX를 활용하여 아이디 조회 후 조회된 아이디가 있을 경우 / 없을 경우 케이스별 화면 변경
 
 ### :pushpin: 비밀번호 재설정(이메일 인증 활용)
 
+
 ### :pushpin: 공지사항
+#### 🧒🏻사용자 
+![notice](https://user-images.githubusercontent.com/91313067/222442989-28676e0b-e6cf-4a2a-8ef8-d04470707ee8.gif)
+- 게시글 목록 페이징 처리
+- 조건별 검색 결과 노출
+- 입력한 키워드 유지 및 검색 결과 목록 페이징 처리
+#### 🛠관리자
+![notice_ad](https://user-images.githubusercontent.com/91313067/222460409-c3d01b1c-a0b0-42fa-b585-176f88f79db4.gif)
+- summer note HTML editor API 활용해 게시글 등록/수정
+- 게시글 공개/비공개 설정 가능
 
 ### :pushpin: 자주묻는질문
+#### 🧒🏻사용자 
+![faq](https://user-images.githubusercontent.com/91313067/222450615-cf6ea644-4911-4d98-a796-081646f53095.gif)<br>
+#### 🛠관리자
+![faq_ad](https://user-images.githubusercontent.com/91313067/222463945-54ee9730-e2a9-4713-8b68-eb3396eba81e.gif)<br>
+- 카테고리별 게시글 목록 필터링 기능 구현
+- '더보기' 버튼 클릭 시 다음 게시글 조회 후 목록 하단에 append
+- 관리자에서 게시글 등록/수정/삭제
 
 ### :pushpin: 1:1 문의
+#### 🧒🏻사용자 
+![inquire](https://user-images.githubusercontent.com/91313067/222455466-0204984b-13fe-4b21-905a-c23d23b219ac.gif)
+- 파일 첨부 기능 구현
+- 답변 상태에 따른 기본문구 노출 및 답변 상태 표시<br>
 
+#### 🛠관리자
+![inquire_ad](https://user-images.githubusercontent.com/91313067/222466835-165488ad-e071-4c0c-ae6f-23bf61f623d8.gif)
+- AJAX를 활용한 필터링 및 페이징 처리
+- 답변 등록/수정 및 최종 답변자, 날짜 업데이트<br>
+
+![inq_ad2](https://user-images.githubusercontent.com/91313067/222467142-5ccb7c65-1f92-4884-b21b-df005a5164d3.gif)
+- 답변 여부 필터링을 통해 답변이 없는 게시글 조회 가능<br>
+ 
 ### :pushpin: 정책
-
+![terms](https://user-images.githubusercontent.com/91313067/222458208-5afd6a61-fd46-42d9-bd12-611f895c1132.gif)
+- summer note HTML editor API 활용해 게시글 등록/수정
+- 관리자에서 수정한 약관 사용자 화면에 
 
 ***
 # :star: Document
 
 ## 개발 일정 <br>
-<img width="1519" alt="scale일정" src="https://user-images.githubusercontent.com/115603858/222172225-fb978526-b900-47b5-9c14-766c87c00b10.png">
+<img width="600" alt="scale일정" src="https://user-images.githubusercontent.com/115603858/222172225-fb978526-b900-47b5-9c14-766c87c00b10.png">
 <br>
 
 ## 유스케이스 <br>
-![use_case](https://user-images.githubusercontent.com/115603858/222172313-c7e3f1ed-f061-4595-a0a1-f9c745f5fafb.jpg)
+<img width="600" alt="유스케이스" src="https://user-images.githubusercontent.com/115603858/222172313-c7e3f1ed-f061-4595-a0a1-f9c745f5fafb.jpg">
 <br>
 
 ## DB 설계 <br>
-<img width="1436" alt="scaleDB" src="https://user-images.githubusercontent.com/115603858/222171803-047a9066-7e0b-43b2-9aba-f943b4fd83cd.png">
+<img width="600" alt="scaleDB" src="https://user-images.githubusercontent.com/115603858/222171803-047a9066-7e0b-43b2-9aba-f943b4fd83cd.png">
 <br>
