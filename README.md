@@ -64,7 +64,7 @@
 
   
 ### :pushpin: 회원가입 - 이메일 인증
-![email_1](https://user-images.githubusercontent.com/91313067/222196893-86e16d42-5ace-4098-b8c8-c18b4b19a261.gif)
+<img width="800" src="https://user-images.githubusercontent.com/91313067/222196893-86e16d42-5ace-4098-b8c8-c18b4b19a261.gif">
 
 - 이메일 인증버튼 클릭 시 이메일 형식에 맞지 않을 경우 안내문구 노출
 - 인증메일 발송 후 인증번호 인풋 display, 인증버튼 -> '재인증'으로 버튼명 변경
