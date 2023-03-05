@@ -85,7 +85,7 @@
 ### :pushpin: 아이디 찾기
 ![findId](https://user-images.githubusercontent.com/91313067/222425415-59cf22b6-32c5-4186-9aea-43c856ef033f.gif)
 ![findIdfailed](https://user-images.githubusercontent.com/91313067/222426124-d3f01f1f-dca6-46d1-b636-ddcae69a3fcf.gif)
-- AJAX를 활용하여 아이디 조회 후 조회된 아이디가 있을 경우 / 없을 경우 케이스별 화면 변경
+- Ajax를 활용하여 아이디 조회 후 조회된 아이디가 있을 경우 / 없을 경우 케이스별 화면 변경
 
 ### :pushpin: 비밀번호 재설정(이메일 인증 활용)
 
