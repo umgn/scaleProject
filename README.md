@@ -16,7 +16,7 @@
     - [공지사항](#pushpin-공지사항)
     - [자주묻는질문](#pushpin-자주묻는질문)
     - [1:1 문의](#pushpin-11-문의)
-    - [정책](#pushipin-정책)
+    - [정책](#pushpin-정책)
 
 4. [Document](#star-document)
 
@@ -127,7 +127,7 @@
 ### :pushpin: 정책
 ![terms](https://user-images.githubusercontent.com/91313067/222458208-5afd6a61-fd46-42d9-bd12-611f895c1132.gif)
 - summer note text editor API 활용해 게시글 등록/수정
-- 관리자에서 수정한 약관 사용자 화면에 
+- 관리자에서 수정한 약관 사용자 화면에 노출
 
 ***
 # :star: Document
