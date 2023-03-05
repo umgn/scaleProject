@@ -98,7 +98,7 @@
 - 입력한 키워드 유지 및 검색 결과 목록 페이징 처리
 #### 🛠관리자
 ![notice_ad](https://user-images.githubusercontent.com/91313067/222460409-c3d01b1c-a0b0-42fa-b585-176f88f79db4.gif)
-- summer note HTML editor API 활용해 게시글 등록/수정
+- summer note text editor API 활용해 게시글 등록/수정
 - 게시글 공개/비공개 설정 가능
 
 ### :pushpin: 자주묻는질문
